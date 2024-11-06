@@ -1,0 +1,14 @@
+E:\SKOLE\GitHub Repository\Aflevering 2\Variabler\obj\Debug\net8.0\Variabler.GeneratedMSBuildEditorConfig.editorconfig
+E:\SKOLE\GitHub Repository\Aflevering 2\Variabler\obj\Debug\net8.0\Variabler.AssemblyInfoInputs.cache
+E:\SKOLE\GitHub Repository\Aflevering 2\Variabler\obj\Debug\net8.0\Variabler.AssemblyInfo.cs
+E:\SKOLE\GitHub Repository\Aflevering 2\Variabler\obj\Debug\net8.0\Variabler.csproj.CoreCompileInputs.cache
+E:\SKOLE\GitHub Repository\Aflevering 2\Variabler\bin\Debug\net8.0\Variabler.exe
+E:\SKOLE\GitHub Repository\Aflevering 2\Variabler\bin\Debug\net8.0\Variabler.deps.json
+E:\SKOLE\GitHub Repository\Aflevering 2\Variabler\bin\Debug\net8.0\Variabler.runtimeconfig.json
+E:\SKOLE\GitHub Repository\Aflevering 2\Variabler\bin\Debug\net8.0\Variabler.dll
+E:\SKOLE\GitHub Repository\Aflevering 2\Variabler\bin\Debug\net8.0\Variabler.pdb
+E:\SKOLE\GitHub Repository\Aflevering 2\Variabler\obj\Debug\net8.0\Variabler.dll
+E:\SKOLE\GitHub Repository\Aflevering 2\Variabler\obj\Debug\net8.0\refint\Variabler.dll
+E:\SKOLE\GitHub Repository\Aflevering 2\Variabler\obj\Debug\net8.0\Variabler.pdb
+E:\SKOLE\GitHub Repository\Aflevering 2\Variabler\obj\Debug\net8.0\Variabler.genruntimeconfig.cache
+E:\SKOLE\GitHub Repository\Aflevering 2\Variabler\obj\Debug\net8.0\ref\Variabler.dll
